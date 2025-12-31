@@ -5,7 +5,8 @@
 
 > A comprehensive, production-ready analytics platform built with PostgreSQL, featuring 25+ views, 10 materialized views, 32 JSON export functions, and a 7-tab interactive dashboard.
 
-![Dashboard Preview](dashboard_preview.png)
+<img width="1639" height="871" alt="Screenshot 2025-12-31 115757" src="https://github.com/user-attachments/assets/744b5925-cd4f-4b92-8e67-a349933297f9" />
+
 
 ## 🎯 Project Overview
 
@@ -247,3 +248,4 @@ Instructor: Sayyed Siraj Ali
 ---
 
 ⭐ If you found this project helpful, please give it a star!
+

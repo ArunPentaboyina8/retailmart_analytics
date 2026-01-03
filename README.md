@@ -642,32 +642,3 @@ find 03_dashboard/data -name "*.json" | wc -l
 # Start web server
 cd 03_dashboard && python3 -m http.server 8000
 ```
-
----
-
-## 📝 **License**
-
-This project is part of the AccioJob SQL Curriculum.
-
----
-
-## 👤 **Author**
-
-**Instructor:** Sayyed Siraj Ali  
-**Course:** PostgreSQL Analytics with pgAdmin 4 & Azure Data Studio  
-**Duration:** 6 Weeks | 18 Sessions  
-
----
-
-## 🎉 **Congratulations!**
-
-You now have a fully functional analytics dashboard! 
-
-**Bookmark this page:** `http://localhost:8000`
-
-**For any issues**, check the [Troubleshooting](#troubleshooting) section above.
-
----
-
-**Last Updated:** November 2024  
-**Version:** 1.0.0
